@@ -1,4 +1,4 @@
 # Python_tasks
-some tasks from codeforces.com
+some tasks 
 
 Petya_session.py - http://codeforces.com/problemset/problem/978/G
